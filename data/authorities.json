@@ -1,0 +1,5 @@
+{
+  "highway": {"name":"National Highways Authority of India (NHAI)","parent":"Ministry of Road Transport & Highways","confidence":91,"reason":"Your question concerns a national highway project and its project records."},
+  "passport": {"name":"Regional Passport Office / Ministry of External Affairs","parent":"Ministry of External Affairs","confidence":88,"reason":"Your question concerns passport application processing."},
+  "general": {"name":"Relevant Central Government Public Authority","parent":"Central Government","confidence":62,"reason":"We need more context to confidently identify the authority."}
+}

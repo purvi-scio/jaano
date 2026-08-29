@@ -1,0 +1,5 @@
+[
+ {"scenario":"highway","title":"Administrative Sanction — NH-48 Widening Project","date":"14 Mar 2026","source":"Synthetic government record for prototype","facts":["₹18.4 crore sanctioned","ABC Infrastructure Ltd named as contractor","Original completion date: 30 September 2024"],"document_id":"GOV-HWY-001","page":"3"},
+ {"scenario":"highway","title":"NH-48 Project Work Order","date":"12 Jan 2024","source":"Synthetic government record for prototype","facts":["Work order issued to ABC Infrastructure Ltd"],"document_id":"GOV-HWY-002","page":"1"},
+ {"scenario":"passport","title":"Passport Application Processing Register","date":"18 Jun 2026","source":"Synthetic government record for prototype","facts":["Application received by Regional Passport Office","File is under verification"],"document_id":"GOV-PAS-001","page":"1"}
+]

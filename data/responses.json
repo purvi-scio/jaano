@@ -1,0 +1,14 @@
+{
+ "highway": {
+   "registration_id":"RTI/2026/482193",
+   "response_title":"Response to RTI — NH-48 Widening Project",
+   "summary":"The authority supplied the sanctioned amount, contractor and original completion date, but did not provide the requested actual expenditure or revised completion/extension order.",
+   "results":[
+     {"question":"Sanctioned amount","status":"answered","answer":"₹18.4 crore"},
+     {"question":"Contractor / work order","status":"answered","answer":"ABC Infrastructure Ltd"},
+     {"question":"Original completion record","status":"answered","answer":"30 September 2024"},
+     {"question":"Actual expenditure","status":"unanswered","answer":"Not provided"},
+     {"question":"Revised completion / extension order","status":"unanswered","answer":"Not provided"}
+   ]
+ }
+}

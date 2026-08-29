@@ -1,0 +1,195 @@
+[
+  {
+    "id": "GOV-HWY-001",
+    "scenario": "highway",
+    "title": "Administrative Sanction \u2014 NH-48 Widening Project",
+    "department": "Ministry of Road Transport & Highways / NHAI",
+    "date": "14 Mar 2026",
+    "page": "3",
+    "source_type": "Synthetic government record",
+    "text": "Administrative sanction for the NH-48 Widening Project records a sanctioned amount of \u20b918.4 crore. The project contractor is ABC Infrastructure Ltd. The original completion date recorded in the sanction is 30 September 2024.",
+    "keywords": [
+      "nh48",
+      "highway",
+      "road",
+      "sanction",
+      "budget",
+      "amount",
+      "contractor",
+      "completion"
+    ]
+  },
+  {
+    "id": "GOV-HWY-002",
+    "scenario": "highway",
+    "title": "Work Order \u2014 NH-48 Widening Project",
+    "department": "NHAI",
+    "date": "12 Jan 2024",
+    "page": "1",
+    "source_type": "Synthetic government record",
+    "text": "Work order WO-NH48-2024-017 was issued to ABC Infrastructure Ltd for the NH-48 Widening Project.",
+    "keywords": [
+      "work order",
+      "contract",
+      "contractor",
+      "nh48",
+      "highway"
+    ]
+  },
+  {
+    "id": "GOV-HWY-003",
+    "scenario": "highway",
+    "title": "Project Completion Schedule \u2014 NH-48 Widening Project",
+    "department": "NHAI",
+    "date": "20 Jan 2024",
+    "page": "2",
+    "source_type": "Synthetic government record",
+    "text": "The recorded original completion schedule specifies 30 September 2024. No revised completion date or extension order is present in this prototype corpus.",
+    "keywords": [
+      "completion",
+      "deadline",
+      "extension",
+      "revised",
+      "schedule",
+      "delay"
+    ]
+  },
+  {
+    "id": "GOV-HWY-004",
+    "scenario": "highway",
+    "title": "Project Expenditure Statement \u2014 NH-48 Widening Project",
+    "department": "NHAI",
+    "date": "30 Jun 2026",
+    "page": "1",
+    "source_type": "Synthetic government record",
+    "text": "This record is intentionally not populated in the prototype corpus. No actual expenditure figure is available in the connected public-information set.",
+    "keywords": [
+      "expenditure",
+      "spent",
+      "spending",
+      "money",
+      "cost",
+      "actual"
+    ]
+  },
+  {
+    "id": "GOV-PAS-001",
+    "scenario": "passport",
+    "title": "Passport Application Processing Register",
+    "department": "Regional Passport Office",
+    "date": "18 Jun 2026",
+    "page": "1",
+    "source_type": "Synthetic government record",
+    "text": "Passport application record shows the application was received by the Regional Passport Office and is currently under verification.",
+    "keywords": [
+      "passport",
+      "application",
+      "status",
+      "verification",
+      "rpo",
+      "processing"
+    ]
+  },
+  {
+    "id": "GOV-PAS-002",
+    "scenario": "passport",
+    "title": "Passport File Movement Register",
+    "department": "Regional Passport Office",
+    "date": "20 Jun 2026",
+    "page": "2",
+    "source_type": "Synthetic government record",
+    "text": "The prototype corpus does not contain the complete file movement history for the application.",
+    "keywords": [
+      "passport",
+      "file movement",
+      "progress",
+      "history",
+      "application"
+    ]
+  },
+  {
+    "id": "GOV-PAS-003",
+    "scenario": "passport",
+    "title": "Passport Delay Record",
+    "department": "Regional Passport Office",
+    "date": "20 Jun 2026",
+    "page": "3",
+    "source_type": "Synthetic government record",
+    "text": "No recorded reason or order explaining a delay is present in the connected prototype corpus.",
+    "keywords": [
+      "passport",
+      "delay",
+      "reason",
+      "order",
+      "application"
+    ]
+  },
+  {
+    "id": "GOV-SCH-001",
+    "scenario": "school",
+    "department": "Department of School Education",
+    "date": "18 Jan 2026",
+    "page": 2,
+    "title": "Administrative Sanction \u2014 Government School Repair Programme",
+    "text": "Administrative sanction approved \u20b942 lakh for repair and accessibility works at Government Senior Secondary School, Ward 17. The sanction covers classroom repairs, toilets and boundary-wall restoration.",
+    "keywords": [
+      "school",
+      "repair",
+      "sanction",
+      "42 lakh",
+      "funds",
+      "education",
+      "ward 17"
+    ]
+  },
+  {
+    "id": "GOV-SCH-002",
+    "scenario": "school",
+    "department": "Department of School Education",
+    "date": "02 Feb 2026",
+    "page": 5,
+    "title": "Work Order \u2014 School Repair Programme",
+    "text": "Work order issued to Sunrise Works for the approved repair package. The scheduled completion date is 30 June 2026.",
+    "keywords": [
+      "school",
+      "work order",
+      "contractor",
+      "Sunrise Works",
+      "completion",
+      "30 June 2026"
+    ]
+  },
+  {
+    "id": "GOV-SCH-003",
+    "scenario": "school",
+    "department": "Department of School Education",
+    "date": "12 Jul 2026",
+    "page": 8,
+    "title": "Completion Inspection Note",
+    "text": "Inspection note records partial completion of classroom and toilet works. Boundary-wall restoration remains pending. The note does not state the total expenditure incurred to date.",
+    "keywords": [
+      "school",
+      "inspection",
+      "partial completion",
+      "boundary wall",
+      "expenditure",
+      "spent"
+    ]
+  },
+  {
+    "id": "GOV-SCH-004",
+    "scenario": "school",
+    "department": "Department of School Education",
+    "date": "20 Jul 2026",
+    "page": 3,
+    "title": "Public Expenditure Statement",
+    "text": "The public expenditure statement lists \u20b927.6 lakh as expenditure booked against the school repair programme to date.",
+    "keywords": [
+      "school",
+      "expenditure",
+      "27.6 lakh",
+      "spent",
+      "public statement"
+    ]
+  }
+]
