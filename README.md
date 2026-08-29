@@ -57,7 +57,7 @@ The model does **not** invent government facts. Jaano retrieves prototype record
 
 ## Demo data
 
-All government records, authority routing, responses and submission are synthetic for the hackathon POC.
+All government records, authority routing, responses and submission are simulated for the hackathon POC.
 
 
 ## Curated judge scenarios
